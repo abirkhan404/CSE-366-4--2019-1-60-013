@@ -1,4 +1,4 @@
-# CSE-366-4-2019-1-60-013
+# CSE-366-(4)-2019-1-60-013
 # Assignment 1: Dynamic Robot Movement Simulation
 This folder contains all the deliverables for the "Dynamic Robot Movement Simulation" project.
 ## Files
