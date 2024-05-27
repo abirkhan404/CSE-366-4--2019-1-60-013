@@ -33,7 +33,7 @@ To run the simulation, ensure you have Jupyter Notebook installed and open or us
 This project aims to perform image classification using a Custom Convolutional Neural Network (CNN) and EfficientNet. The objective is to compare the performance of a simple, custom-built CNN with a pre-trained, efficient model like EfficientNet. We will evaluate the models based on accuracy, training time, and complexity.
 ## Dataset
 The dataset used for this project is available on Mendeley Data. It comprises various images classified into predefined categories. We will preprocess these images, train our models on them, and then evaluate the models' performance.
-Environment Setup
+## Environment Setup
 First, ensure that you have the necessary libraries installed. These include TensorFlow, NumPy, Matplotlib, and Sklearn.
 ```python
 !pip install tensorflow numpy matplotlib sklearn
